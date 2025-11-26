@@ -15,7 +15,7 @@ I've always liked doing things myself. I love learning how things really work.
 
 # Tasks
 ---
-- [ ] preferred types / type aliases.
+- [x] preferred types / type aliases.
 - [ ] simple math utilities.
 - [ ] logging utilities.
 - [ ] argument parsing.
